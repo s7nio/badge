@@ -13,16 +13,22 @@ Useful informations on a badge:
     - @twitter
     - #twitter2016
   - calendar feed with all talks
+  - sponsors
 
 - talk
   - title
   - description
+  - type e.g. technology, architecture
   - language
   - speaker
     - name
-    - social media links (twitter, github, ...)
+    - social media links (homepage, twitter, github, ...)
   - duration
   - location / floor / room
   - date / time
   - calendar feed (google, ical, ...)
   - urls (slide, recording, ...)
+
+- visitor
+  - name / nick / id
+  - qr code e.g. for feedback / votings (☀ ⛅  ☁ ⛈)
